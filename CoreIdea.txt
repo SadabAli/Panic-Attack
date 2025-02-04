@@ -1,0 +1,11 @@
+Unwanted Cols = ID,Age , Gender 
+
+Mutliclass :-Trigger,Medical_History
+
+Two class :- Sweating,Shortness_of_Breath,Dizziness,Chest_Pain,Trembling,Medication,Smoking,Therapy 
+
+
+Prediction :-Panic_Score
+
+classification:-Symptom Classification:-Classify individuals based on symptoms like sweating and chest pain.
+Trigger classification:Predict the likely trigger for a panic attack using demographic and lifestyle data (multi-class classification). 
