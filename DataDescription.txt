@@ -1,0 +1,44 @@
+
+About Dataset
+This dataset is designed to help analyze panic attacks by exploring potential triggers, symptoms, and associated lifestyle factors. It includes details such as age, gender, panic attack frequency, duration, heart rate, sweating, chest pain, trembling, medical history, medication use, caffeine intake, exercise frequency, sleep patterns, alcohol consumption, smoking habits, therapy participation, and panic severity scores.
+ID – Unique identifier
+
+Age – Age of the individual
+
+Gender – Male, Female, Non-binary
+
+Panic_Attack_Frequency – Number of panic attacks per month
+
+Duration_Minutes – Average duration of panic attack (minutes)
+
+Trigger – Main trigger (e.g., stress, social anxiety, phobia, PTSD, caffeine, unknown)
+
+Heart_Rate – Heart rate during a panic attack (bpm)
+
+Sweating – Yes/No
+
+Shortness_of_Breath – Yes/No
+
+Dizziness – Yes/No
+
+Chest_Pain – Yes/No
+
+Trembling – Yes/No
+
+Medical_History – Pre-existing conditions (e.g., Anxiety, Depression, PTSD)
+
+Medication – Taking medication for anxiety (Yes/No)
+
+Caffeine_Intake – Cups of coffee/tea per day
+
+Exercise_Frequency – Days of exercise per week
+
+Sleep_Hours – Average sleep hours per night
+
+Alcohol_Consumption – Drinks per week
+
+Smoking – Smoker (Yes/No)
+
+Therapy – Attending therapy (Yes/No)
+
+Panic_Score – Severity score (1-10)
